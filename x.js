@@ -1,5 +1,5 @@
-var HASH = 'rM+6NlIo6xXt7hGtrSsd9/3gCZD6XJpCg1qHJwNo8m8='
-var URLS = ['https://article.biliimg.com/bfs/article/e9549fa84be2406f6daef3baac03431afd9153ff.png']
+var HASH = '0JRryHtcxAlp5u/wFtx8F8jsqxFfruHQDWz5PnYlgAA='
+var URLS = ['https://article.biliimg.com/bfs/article/4cd9b436e88851cbf0744ce1fcaa471127532801.png']
 var PRIVACY = 2
 var UPDATE_INTERVAL = 120
 var IMG_TIMEOUT = 10
