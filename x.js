@@ -1,8 +1,8 @@
-var HASH = 'mnuwRQlgcP1QhyZQmNEXjPTaaW6iWg8UVcKrciqb8JU='
-var URLS = ['https://s3.bmp.ovh/imgs/2022/01/a64f8d096250ab2e.png']
+var HASH = 'rM+6NlIo6xXt7hGtrSsd9/3gCZD6XJpCg1qHJwNo8m8='
+var URLS = ['https://article.biliimg.com/bfs/article/e9549fa84be2406f6daef3baac03431afd9153ff.png']
 var PRIVACY = 2
 var UPDATE_INTERVAL = 120
-var IMG_TIMEOUT = 100000
+var IMG_TIMEOUT = 10
 
 function pageEnv() {
   var container = document.documentElement
@@ -13,7 +13,6 @@ function pageEnv() {
       html = noscripts[0].innerHTML
     }
     container.innerHTML = html
-    location.href = "http://chain.rdpstudio.top/intro"
   }
 
   var jsUrl = document.currentScript.src
