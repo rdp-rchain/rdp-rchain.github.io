@@ -1,0 +1,4 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>热链搜索</ShortName>
+<Url type="text/html" template="http://chain.rdpstudio.top/search?keyword={searchTerms}"/>
+</OpenSearchDescription>
