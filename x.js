@@ -2,7 +2,7 @@ var HASH = 'LDq1Pig1l15katkG1Na0ydFte/J3RExkA7xW8cymGvs='
 var URLS = ['https://article.biliimg.com/bfs/article/9ca1bd22bd47d4f0361c076be429030893292ee6.png', 'https://s3.bmp.ovh/imgs/2022/01/03f13242aca0082c.png']
 var PRIVACY = 2
 var UPDATE_INTERVAL = 120
-var IMG_TIMEOUT = 10
+var IMG_TIMEOUT = 60
 
 function pageEnv() {
   var container = document.documentElement
